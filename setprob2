@@ -1,0 +1,4 @@
+s1 = set(input().split(" "))
+s2 = set(input().split(" "))
+s3 = set(input().split(" "))
+print(s1.union(s2,s3))

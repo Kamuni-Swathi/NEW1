@@ -1,0 +1,5 @@
+#print('hello "sir"')
+print("hello \"sir\"")
+print("hello\tsir")
+print("hello \bsir")
+print("hello\nsir")
